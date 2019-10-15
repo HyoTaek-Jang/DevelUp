@@ -111,6 +111,7 @@ body{
 .album-content{
     overflow: hidden;
     padding: 15px;
+    padding-bottom : 30px;
     color: rgb(124, 124, 124);
     transition: all 0.5s;
 }
